@@ -3,8 +3,9 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import calendar
-import timeit
 # All the imports were not used for final production, but used all during the coding.
+import re
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
