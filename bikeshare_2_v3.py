@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import datetime as dt
 import calendar
-import timeit
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
