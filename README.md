@@ -1,5 +1,4 @@
 ### Date created
-Include the date you created this project and README file.
 Redoing proj - 4-19-2019
 
 ### Replacedlol
